@@ -74,14 +74,33 @@ It demonstrates the use of almost all essential **HTML tags** in a meaningful wa
 - `&copy;` → Displays the copyright symbol.
 
 ---
+## 🎨 CSS Styling Overview:
 
-## 🎨 CSS Used:
-- Styling for navigation bar, headings, text, sections, articles, forms, and footer.
-- Rounded corners, soft shadows, and smooth scrolling using:
-  ```css
-  html {
-      scroll-behavior: smooth;
-  }
+The webpage uses **CSS (Cascading Style Sheets)** to give it a **clean, modern, and responsive look**. Here's how the styling is structured:
+
+---
+
+### ✅ Key Styling Features:
+
+#### 🏷 Header & Navigation Bar:
+- A colored header with a navigation menu styled using `<ul>`, `<li>`, and `<a>` tags for a **horizontal layout**.
+
+#### 🏗 Main Sections:
+- Each section (**About**, **Skills**, **Hobbies**, **Articles**, **Contact**) is separated with **spacing, borders, and consistent font styles**.
+
+#### ✍️ Typography:
+- Headings (`<h1>`, `<h2>`, `<h3>`) have **distinct sizes and colors** for clear hierarchy.
+- Paragraphs and lists use proper **spacing and readable font styles**.
+
+#### 📝 Forms:
+- The contact form uses styled `<input>`, `<textarea>`, and submit `<button>` with **padding, border-radius, and hover effects** for better user interaction.
+
+#### 📄 Articles:
+- Articles are styled using **borders, padding, and soft background colors** to create a **clean card-like appearance**.
+
+#### 🦶 Footer:
+- The footer has a **dark background** with **white text** and **rounded edges** for a **polished, professional finish**.
+
 
 ## 🚀 How to Use:
 1. Clone or download this repository.
@@ -89,7 +108,7 @@ It demonstrates the use of almost all essential **HTML tags** in a meaningful wa
 3. To edit the content, open the files in any text editor (VS Code recommended).
 
 ## 🔗 Live Preview:
-
+https://basic-of-webdevlopment.netlify.app/
 
 ## 📧 Contact:
 **Name:** Rahul Londhe  
